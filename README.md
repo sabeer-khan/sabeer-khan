@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sabeer-khan
 - 👀 I’m interested in Pyhton,Java and Machine Learning
-- 🌱 I’m currently learning Java with Dsa
+- 🌱 I’m currently learning python with Dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
