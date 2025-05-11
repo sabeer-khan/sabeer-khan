@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sabeer Khan
 
-🎓 Master's in AI/ML | 🇩🇪 Based in Germany  
+🎓 Master's in AI/ML  
 🚀 AI Engineer • Full Stack Developer • Researcher
 
 ---
