@@ -26,7 +26,6 @@ Currently exploring the intersection of **AI, software systems, and real-time co
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeer-khan&show_icons=true&theme=tokyonight" alt="Sabeer's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeer-khan&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
