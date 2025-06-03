@@ -14,7 +14,7 @@ Currently exploring the intersection of **AI, software systems, and real-time co
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, Bash, C  
+**Languages:** Python, JavaScript, SQL, Bash, C, C++
 **ML/DL:** PyTorch, TensorFlow, scikit-learn, Keras, OpenCV  
 **Frameworks:** FastAPI, Flask, Django, React, Streamlit  
 **Tools:** Docker, Git, Jira, PostgreSQL, Pandas, NumPy  
