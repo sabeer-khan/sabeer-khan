@@ -1,24 +1,33 @@
 # 👋 Hi, I'm Sabeer Khan
 
+🎯 Generative AI & Machine Learning Engineer | Full-Stack Dev | FastAPI & React | LLMs | Real-Time Systems
 🎓 Master's in AI/ML  
-🚀 AI Engineer • Full Stack Developer • Researcher
 
 ---
 
 ## 🧠 About Me
 
 I'm an engineer passionate about building intelligent, scalable, and impactful systems.  
-Currently exploring the intersection of **AI, software systems, and real-time communication**
+
+🚀 I’m passionate about building intelligent, scalable, and impactful systems.  
+I specialize in:
+- 🧠 GenAI (LLMs, RAG, LangChain)
+- ⚙️ AI-based Automation & Workflow Optimization
+- 📊 Real-Time Diagnostics & Predictive Analytics
+- 💬 NLP for Document Intelligence & Voice Transcription
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, SQL, Bash, C, C++
-**ML/DL:** PyTorch, TensorFlow, scikit-learn, Keras, OpenCV  
-**Frameworks:** FastAPI, Flask, Django, React, Streamlit  
-**Tools:** Docker, Git, Jira, PostgreSQL, Pandas, NumPy  
-**AI/NLP:** HuggingFace, Vosk, Gemma3, Whisper
+**Languages**: Python, JavaScript, SQL, Bash, C, C++  
+**AI/ML**: PyTorch, TensorFlow, scikit-learn, XGBoost, Transformers, CNNs, RNNs  
+**NLP & GenAI**: GPT-3.5, LangChain, Sentence Transformers, Whisper, Hugging Face, TextBlob  
+**Web & Backend**: FastAPI, Flask, Django, React, Streamlit  
+**Databases**: PostgreSQL, MySQL, MongoDB, FAISS, ChromaDB  
+**Tools**: Docker, Git, AWS (S3, Lambda, EC2, SageMaker), MLflow, Pandas, NumPy  
+**DevOps**: CloudWatch, IAM, ECS, ECR, Glue, Athena  
 
 ---
 
